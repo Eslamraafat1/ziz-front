@@ -4957,3 +4957,10 @@ video {
     height: 800px;
   }
 }
+.bg-green {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255);
+}
+.scroll-to-top-btn:hover {
+    background-color: rgb(255 255 255);
+}

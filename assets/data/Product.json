@@ -25,7 +25,7 @@
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/1-2.png"
+        "image": "./assets/images/new-1/2/a3(1).jpg"
       },
       {
         "color": "yellow",
@@ -35,12 +35,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/1-1.png",
-      "./assets/images/product/fashion/1-2.png"
+      "./assets/images/new-1/2/a3(2).jpg",
+      "./assets/images/new-1/2/a3(1).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/1-1.png",
-      "./assets/images/product/fashion/1-2.png",
+      "./assets/images/new-1/2/a3(2).jpg",
+      "./assets/images/new-1/2/a3(1).jpg",
       "./assets/images/product/fashion/1-3.png",
       "./assets/images/product/fashion/1-4.png"
     ],
@@ -76,7 +76,7 @@
         "color": "white",
         "colorCode": "#F6EFDD",
         "colorImage": "./assets/images/product/color/white.png",
-        "image": "./assets/images/product/fashion/2-1.png"
+        "image": "./assets/images/new-1/a2(2).jpg"
       },
       {
         "color": "purple",
@@ -86,12 +86,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/2-1.png",
-      "./assets/images/product/fashion/2-2.png"
+      "./assets/images/new-1/a2(2).jpg",
+      "./assets/images/new-1/a2(1).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/2-1.png",
-      "./assets/images/product/fashion/2-2.png",
+      "./assets/images/new-1/a2(2).jpg",
+      "./assets/images/new-1/a2(1).jpg",
       "./assets/images/product/fashion/2-3.png",
       "./assets/images/product/fashion/2-4.png"
     ],
@@ -122,7 +122,7 @@
         "color": "pink",
         "colorCode": "#F4407D",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/3-1.png"
+        "image": "./assets/images/new-1/3/a4(1).jpg"
       },
       {
         "color": "yellow",
@@ -138,12 +138,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/3-1.png",
-      "./assets/images/product/fashion/3-2.png"
+      "./assets/images/new-1/3/a4(1).jpg",
+      "./assets/images/new-1/3/a4(2).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/3-1.png",
-      "./assets/images/product/fashion/3-2.png",
+      "./assets/images/new-1/3/a4(1).jpg",
+      "./assets/images/new-1/3/a4(2).jpg",
       "./assets/images/product/fashion/3-3.png",
       "./assets/images/product/fashion/3-4.png"
     ],
@@ -176,7 +176,7 @@
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/4-2.png"
+        "image": "./assets/images/new-1/2/a3(1).jpg"
       },
       {
         "color": "white",
@@ -192,12 +192,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/4-1.png",
-      "./assets/images/product/fashion/4-2.png"
+      "./assets/images/new-1/2/a3(2).jpg",
+      "./assets/images/new-1/2/a3(1).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/4-1.png",
-      "./assets/images/product/fashion/4-2.png",
+      "./assets/images/new-1/2/a3(2).jpg",
+      "./assets/images/new-1/2/a3(1).jpg",
       "./assets/images/product/fashion/4-3.png",
       "./assets/images/product/fashion/4-4.png"
     ],
@@ -400,13 +400,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/8-1.png"
+        "image": "./assets/images/new-2/2/h1.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/8-2.png"
+        "image": "./assets/images/new-2/2/h2.jpg"
       },
       {
         "color": "yellow",
@@ -422,12 +422,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/8-1.png",
-      "./assets/images/product/fashion/8-2.png"
+      "./assets/images/new-2/2/h1.jpg",
+      "./assets/images/new-2/2/h2.jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/8-1.png",
-      "./assets/images/product/fashion/8-2.png",
+      "./assets/images/new-2/2/h1.jpg",
+      "./assets/images/new-2/2/h2.jpg",
       "./assets/images/product/fashion/8-3.png",
       "./assets/images/product/fashion/8-4.png"
     ],
@@ -461,13 +461,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/9-1.png"
+        "image": "./assets/images/new-1/2/a3(1).jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/9-2.png"
+        "image": "./assets/images/new-1/2/a3(2).jpg"
       },
       {
         "color": "white",
@@ -477,12 +477,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/9-1.png",
-      "./assets/images/product/fashion/9-2.png"
+      "./assets/images/new-1/2/a3(1).jpg",
+      "./assets/images/new-1/2/a3(2).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/9-1.png",
-      "./assets/images/product/fashion/9-2.png",
+      "./assets/images/new-1/2/a3(1).jpg",
+      "./assets/images/new-1/2/a3(2).jpg",
       "./assets/images/product/fashion/9-3.png",
       "./assets/images/product/fashion/9-4.png"
     ],
@@ -518,13 +518,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/10-1.png"
+        "image": "./assets/images/new-1/3/a4(1).jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/10-2.png"
+        "image": "./assets/images/new-1/3/a4(2).jpg"
       },
       {
         "color": "yellow",
@@ -540,12 +540,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/10-1.png",
-      "./assets/images/product/fashion/10-2.png"
+      "./assets/images/new-1/3/a4(1).jpg",
+      "./assets/images/new-1/3/a4(2).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/10-1.png",
-      "./assets/images/product/fashion/10-2.png",
+      "./assets/images/new-1/3/a4(1).jpg",
+      "./assets/images/new-1/3/a4(2).jpg",
       "./assets/images/product/fashion/10-3.png",
       "./assets/images/product/fashion/10-4.png"
     ],
@@ -691,13 +691,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/13-1.png"
+        "image": "./assets/images/new-2/6/j(1).jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/13-2.png"
+        "image": "./assets/images/new-2/6/j(2).jpg"
       },
       {
         "color": "yellow",
@@ -713,12 +713,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/13-1.png",
-      "./assets/images/product/fashion/13-2.png"
+      "./assets/images/new-2/6/j(1).jpg",
+      "./assets/images/new-2/6/j(2).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/13-1.png",
-      "./assets/images/product/fashion/13-2.png",
+      "./assets/images/new-2/6/j(1).jpg",
+      "./assets/images/new-2/6/j(2).jpg",
       "./assets/images/product/fashion/13-3.png",
       "./assets/images/product/fashion/13-4.png"
     ],
@@ -879,13 +879,13 @@
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/16-2.png"
+        "image": "./assets/images/new-2/4/h6.jpg"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "./assets/images/product/color/yellow.png",
-        "image": "./assets/images/product/fashion/16-3.png"
+        "image": "./assets/images/new-2/4/h7.jpg"
       },
       {
         "color": "purple",
@@ -896,12 +896,12 @@
     ],
     "thumbImage": [
       "./assets/images/product/fashion/16-1.png",
-      "./assets/images/product/fashion/16-2.png"
+      "./assets/images/new-2/4/h6.jpg"
     ],
     "images": [
       "./assets/images/product/fashion/16-1.png",
-      "./assets/images/product/fashion/16-2.png",
-      "./assets/images/product/fashion/16-3.png",
+      "./assets/images/new-2/4/h6.jpg",
+      "./assets/images/new-2/4/h7.jpg",
       "./assets/images/product/fashion/16-4.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
@@ -946,22 +946,22 @@
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "./assets/images/product/color/yellow.png",
-        "image": "./assets/images/product/fashion/21-2.png"
+        "image": "./assets/images/new-2/5/j1(4).jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "./assets/images/product/color/purple.png",
-        "image": "./assets/images/product/fashion/21-1.png"
+        "image": "./assets/images/new-2/5/j1(5).jpg"
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/21-2.png",
-      "./assets/images/product/fashion/21-1.png"
+      "./assets/images/new-2/5/j1(4).jpg",
+      "./assets/images/new-2/5/j1(5).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/21-2.png",
-      "./assets/images/product/fashion/21-1.png",
+      "./assets/images/new-2/5/j1(4).jpg",
+      "./assets/images/new-2/5/j1(5).jpg",
       "./assets/images/product/fashion/21-3.png",
       "./assets/images/product/fashion/21-4.png"
     ],
@@ -1008,13 +1008,13 @@
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "./assets/images/product/color/yellow.png",
-        "image": "./assets/images/product/fashion/21-2.png"
+        "image": "./assets/images/new-2/5/j1(4).jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "./assets/images/product/color/purple.png",
-        "image": "./assets/images/product/fashion/21-1.png"
+        "image": "./assets/images/new-2/5/j1(5).jpg"
       }
     ],
     "thumbImage": [
@@ -1024,8 +1024,8 @@
     "images": [
       "./assets/images/product/fashion/21-3.png",
       "./assets/images/product/fashion/21-4.png",
-      "./assets/images/product/fashion/21-1.png",
-      "./assets/images/product/fashion/21-2.png"
+      "./assets/images/new-2/5/j1(5).jpg",
+      "./assets/images/new-2/5/j1(4).jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1120,13 +1120,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/18-1.png"
+        "image": "./assets/images/new-2/1/h00.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/18-2.png"
+        "image": "./assets/images/new-2/1/h45.jpg"
       },
       {
         "color": "yellow",
@@ -1142,12 +1142,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/18-1.png",
-      "./assets/images/product/fashion/18-2.png"
+      "./assets/images/new-2/1/h00.jpg",
+      "./assets/images/new-2/1/h45.jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/18-1.png",
-      "./assets/images/product/fashion/18-2.png",
+      "./assets/images/new-2/1/h00.jpg",
+      "./assets/images/new-2/1/h45.jpg",
       "./assets/images/product/fashion/18-3.png",
       "./assets/images/product/fashion/18-4.png"
     ],
@@ -1178,13 +1178,13 @@
         "color": "green",
         "colorCode": "#D2EF9A",
         "colorImage": "./assets/images/product/color/green.png",
-        "image": "./assets/images/product/fashion/19-1.png"
+        "image": "./assets/images/new-2/3/h3.jpg"
       },
       {
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "./assets/images/product/color/red.png",
-        "image": "./assets/images/product/fashion/19-2.png"
+        "image": "./assets/images/new-2/3/h4.jpg"
       },
       {
         "color": "yellow",
@@ -1200,12 +1200,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/19-1.png",
-      "./assets/images/product/fashion/19-2.png"
+      "./assets/images/new-2/3/h3.jpg",
+      "./assets/images/new-2/3/h4.jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/19-1.png",
-      "./assets/images/product/fashion/19-2.png",
+      "./assets/images/new-2/3/h3.jpg",
+      "./assets/images/new-2/3/h4.jpg",
       "./assets/images/product/fashion/19-3.png",
       "./assets/images/product/fashion/19-4.png"
     ],
@@ -1313,22 +1313,22 @@
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "./assets/images/product/color/yellow.png",
-        "image": "./assets/images/product/fashion/21-2.png"
+        "image": "./assets/images/new-2/5/j1(4).jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "./assets/images/product/color/purple.png",
-        "image": "./assets/images/product/fashion/21-1.png"
+        "image": "./assets/images/new-2/5/j1(5).jpg"
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/21-1.png",
-      "./assets/images/product/fashion/21-2.png"
+      "./assets/images/new-2/5/j1(5).jpg",
+      "./assets/images/new-2/5/j1(4).jpg"
     ],
     "images": [
-      "./assets/images/product/fashion/21-1.png",
-      "./assets/images/product/fashion/21-2.png",
+      "./assets/images/new-2/5/j1(5).jpg",
+      "./assets/images/new-2/5/j1(4).jpg",
       "./assets/images/product/fashion/21-3.png",
       "./assets/images/product/fashion/21-4.png"
     ],
@@ -1375,13 +1375,13 @@
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "./assets/images/product/color/yellow.png",
-        "image": "./assets/images/product/fashion/21-2.png"
+        "image": "./assets/images/new-2/5/j1(4).jpg"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "./assets/images/product/color/purple.png",
-        "image": "./assets/images/product/fashion/21-1.png"
+        "image": "./assets/images/new-2/5/j1(5).jpg"
       }
     ],
     "thumbImage": [
@@ -1391,8 +1391,8 @@
     "images": [
       "./assets/images/product/fashion/21-4.png",
       "./assets/images/product/fashion/21-3.png",
-      "./assets/images/product/fashion/21-1.png",
-      "./assets/images/product/fashion/21-2.png"
+      "./assets/images/new-2/5/j1(5).jpg",
+      "./assets/images/new-2/5/j1(4).jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -7104,13 +7104,13 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/product/fashion/16-2.png",
-      "./assets/images/product/fashion/16-3.png"
+      "./assets/images/new-2/4/h6.jpg",
+      "./assets/images/new-2/4/h7.jpg"
     ],
     "images": [
       "./assets/images/product/fashion/16-1.png",
-      "./assets/images/product/fashion/16-2.png",
-      "./assets/images/product/fashion/16-3.png",
+      "./assets/images/new-2/4/h6.jpg",
+      "./assets/images/new-2/4/h7.jpg",
       "./assets/images/product/fashion/16-4.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",

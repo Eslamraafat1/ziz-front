@@ -192,12 +192,12 @@
       }
     ],
     "thumbImage": [
-      "./assets/images/new-1/2/a3(2).jpg",
-      "./assets/images/new-1/2/a3(1).jpg"
+      
+      "./assets/images/what'snew/w2.jpg"
     ],
     "images": [
-      "./assets/images/new-1/2/a3(2).jpg",
-      "./assets/images/new-1/2/a3(1).jpg",
+      "./assets/images/",
+      "./assets/images/what'snew/w2.jpg",
       "./assets/images/product/fashion/4-3.png",
       "./assets/images/product/fashion/4-4.png"
     ],

@@ -528,8 +528,8 @@ input[type=file]::-webkit-file-upload-button {
   transition: all ease 0.4s;
 }
 .button-main:hover {
-  background-color: var(--green);
-  color: var(--black);
+  /* background-color: var(--green); */
+  /* color: var(--black); */
 }
 .button-main:hover svg path {
   fill: var(--black);

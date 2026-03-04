@@ -2587,8 +2587,8 @@ input[type=file]::-webkit-file-upload-button {
 }
 
 .style-marketplace .button-main:hover {
-  background-color: var(--green);
-  color: var(--black);
+  /* background-color: var(--green); */
+  /* color: var(--black); */
 }
 
 @media (min-width: 1024px) {
@@ -4544,8 +4544,8 @@ input[type=file]::-webkit-file-upload-button {
   border-color: var(--white);
 }
 .featured-product.style-watch .button-block .button-main:hover {
-  background-color: var(--green);
-  color: var(--black);
+  /* background-color: var(--green); */
+  /* color: var(--black); */
 }
 
 /*# sourceMappingURL=output-scss.css.map */
